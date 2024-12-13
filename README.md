@@ -57,7 +57,7 @@ You can access the models [here](https://drive.google.com/drive/folders/1_AdyiJE
 
 ## Notebook Details
 
-### Image Clasification
+### Image Classification
 `Experiment_Crop_Hand_Saliency_Map.ipynb`: Experiments to check crop hand preprocessing using `mediapipe` library and check saliency map of models after training/finetuning.
 
 `Experiment_Image_Recognition.ipynb`: Complete preprocessing and training/e experiments to develop 
